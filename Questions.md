@@ -31,5 +31,6 @@ Array.prototype.myOwnForEach = function(cb) {
 
 arr.myOwnForEach((item, index, el) => {
   console.log(item, index, el);
-});```
+});
+```
 **REF:** [https://dev.to/ashokdey_/can-you-implement-foreach-9e1](https://dev.to/ashokdey_/can-you-implement-foreach-9e1)
