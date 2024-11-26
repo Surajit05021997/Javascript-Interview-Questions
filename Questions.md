@@ -7,8 +7,8 @@
 In case of array, the array iterator does yield all the values in the array (ignoring non-index properties).  
 **REF:** [https://stackoverflow.com/questions/29285897/difference-between-for-in-and-for-of-statements](https://stackoverflow.com/questions/29285897/difference-between-for-in-and-for-of-statements)
 
-**Q:** Implement custom forEach loop.
-**A:**
+**Q:** Implement custom forEach loop.  
+**A:**  
 let arr = [1,2,3,4,5];
 
 // deleting array item this way wont change the length
