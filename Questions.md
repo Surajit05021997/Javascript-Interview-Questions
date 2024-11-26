@@ -10,7 +10,7 @@ In case of array, the array iterator does yield all the values in the array (ign
 **Q:** Implement custom forEach loop.  
 **A:**  
 
-`let arr = [1,2,3,4,5];
+`let arr = [1,2,3,4,5];`
   
 // deleting array item this way wont change the length  
 delete arr[1];  
