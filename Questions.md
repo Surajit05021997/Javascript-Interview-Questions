@@ -10,7 +10,7 @@ In case of array, the array iterator does yield all the values in the array (ign
 **Q:** Implement custom forEach loop.  
 **A:**  
 
-`js
+```js
 let arr = [1,2,3,4,5];
 
 // deleting array item this way wont change the length  
@@ -31,5 +31,5 @@ Array.prototype.myOwnForEach = function(cb) {
 
 arr.myOwnForEach((item, index, el) => {
   console.log(item, index, el);
-});`
+});```
 **REF:** [https://dev.to/ashokdey_/can-you-implement-foreach-9e1](https://dev.to/ashokdey_/can-you-implement-foreach-9e1)
