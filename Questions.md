@@ -35,5 +35,5 @@ arr.myOwnForEach((item, index, el) => {
 ```
 **REF:** [https://dev.to/ashokdey_/can-you-implement-foreach-9e1](https://dev.to/ashokdey_/can-you-implement-foreach-9e1)
 
-**Q:** How javascript engine works?
+**Q:** How javascript engine works?  
 **A:** **REF:** https://mathiasbynens.be/notes/shapes-ics
